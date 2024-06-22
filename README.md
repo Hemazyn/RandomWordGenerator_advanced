@@ -13,7 +13,8 @@
 The Random Word Generator is a Flutter application that generates random English words and displays them in a visually appealing manner. The app leverages the english_words package for word generation and provider for state management, ensuring a smooth and responsive user experience.
 
 ### Preview
-![](/public/drone.png)
+![](/assets/images/randomword1.jpeg)
+![](/assets/images/randomword2.png)
 
 ### Features
 - Generate random English words
